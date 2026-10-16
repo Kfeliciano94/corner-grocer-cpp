@@ -1,0 +1,16 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+main
+
+# Debugging files
+*.dSYM/
+
+# Generated output
+frequency.dat
+
+# System files
+.DS_Store
+Thumbs.db
